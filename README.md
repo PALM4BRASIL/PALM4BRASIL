@@ -15,7 +15,7 @@ A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, reali
 - Compartilhar estudos de caso e configurações específicas voltadas à **Amazônia, parques eólicos, ambientes urbanos e aplicações regionais**;
 - Facilitar o intercâmbio de **ferramentas, scripts, experimentos numéricos e documentação técnica**;
 - Estimular colaborações entre universidades e centros de pesquisa brasileiros;
-- Estreitar os laços de cooperação entre pesquisadores brasileiros e o grupo de desenvolvimento do **PALM-LES** da **Universidade de Hannover**;
+- Estreitar os laços de cooperação entre pesquisadores brasileiros e o grupo de desenvolvimento do **PALM-LES** da **Leibniz University**;
 - Divulgar oportunidades de **mestrado, doutorado, pos-doc, workshops e eventos associados ao PALM-LES**.
 
 ### OPORTUNIDADES ➔ [Confira aqui](https://github.com/PALM4BRASIL/OPORTUNIDADES)
