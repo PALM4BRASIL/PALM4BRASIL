@@ -21,23 +21,6 @@ A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, reali
 
 ### OPORTUNIDADE ➔ [Confira aqui](https://github.com/PALM4BRASIL/OPORTUNIDADE)
 
-
-
-### Estrutura do Repositório
-
-```
-PALM4BRASIL/
-├── cases/ # Estudos de caso e configurações específicas
-│ ├── amazonia/
-│ ├── parques_eolicos/
-│ └── ambientes_urbanos/
-├── scripts/ # Scripts de pós-processamento e análise
-├── docs/ # Documentação técnica e tutoriais
-├── experiments/ # Experimentos numéricos e arquivos de entrada
-├── LICENSE
-└── README.md
-```
-
 ### Como Contribuir
 
 Contribuições são bem-vindas! Você pode colaborar de várias formas:
