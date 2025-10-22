@@ -12,12 +12,12 @@ A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, reali
 
 ## Objetivos
 
-- Promover a integração e ampliação da comunidade brasileira de usuários do **PALM-LES**;
+- Promover a integração e ampliação da comunidade brasileira de usuários do modelo atmosférico **PALM-LES**;
 - Compartilhar estudos de caso e configurações específicas voltadas à **Amazônia, parques eólicos, ambientes urbanos e aplicações regionais**;
 - Facilitar o intercâmbio de **ferramentas, scripts, experimentos numéricos e documentação técnica**;
 - Estimular colaborações entre universidades e centros de pesquisa brasileiros;
 - Estreitar os laços de cooperação entre pesquisadores brasileiros e o grupo de desenvolvimento do **PALM-LES** da **Universidade de Hannover**;
-- Divulgar oportunidades de **capacitação, workshops e eventos relacionados ao PALM-LES**.
+- Divulgar oportunidades de **mestrado, doutorado, pos-doc, workshops e eventos associados ao PALM-LES**.
 
 
 ## Estrutura do Repositório
