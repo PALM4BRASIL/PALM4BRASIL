@@ -19,6 +19,8 @@ A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, reali
 - Estreitar os laços de cooperação entre pesquisadores brasileiros e o grupo de desenvolvimento do **PALM-LES** da **Universidade de Hannover**;
 - Divulgar oportunidades de **mestrado, doutorado, pos-doc, workshops e eventos associados ao PALM-LES**.
 
+[Acesse a pasta de scripts](./OPORTUNIDADE)
+
 
 ## Estrutura do Repositório
 
