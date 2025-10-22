@@ -24,7 +24,7 @@ A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, reali
 
 ```
 PALM4BRASIL/
-├── cases/ # Casos de estudo e configurações específicas
+├── cases/ # Estudos de caso e configurações específicas
 │ ├── amazonia/
 │ ├── parques_eolicos/
 │ └── ambientes_urbanos/
@@ -39,9 +39,9 @@ PALM4BRASIL/
 
 Contribuições são bem-vindas! Você pode colaborar de várias formas:
 
-1. Adicionando **novos casos de estudo** ou melhorias em experimentos existentes;
+1. Adicionando **novos estudos de caso** ou melhorias em experimentos existentes;
 2. Compartilhando **scripts e ferramentas** de análise de dados;
-3. Atualizando a **documentação** com tutoriais e dicas de configuração;
+3. Atualizando a **documentação** com tutoriais e sugestões;
 4. Reportando **bugs ou problemas** encontrados nos experimentos.
 
 Para contribuir, faça um fork deste repositório, crie uma branch com suas alterações e abra um pull request.
@@ -51,9 +51,3 @@ Para contribuir, faça um fork deste repositório, crie uma branch com suas alte
 ## Contato
 
 Para mais informações ou para se envolver com o **PALM4BRASIL**, entre em contato com a equipe organizadora através do e-mail ou redes acadêmicas listadas nos eventos.
-
-
-
-
-
-
