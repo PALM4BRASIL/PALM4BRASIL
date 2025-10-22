@@ -24,6 +24,9 @@ A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, reali
 
 ### ESTUDOS DE CASO ➔ [Confira aqui](https://github.com/PALM4BRASIL/CASES)
 
+### FÓRUM ➔ [Confira aqui](https://github.com/PALM4BRASIL/FORUM)
+
+
 ### Como Contribuir
 
 Contribuições são bem-vindas! Você pode colaborar de várias formas:
