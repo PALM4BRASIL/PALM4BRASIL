@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![GitHub contributors](https://img.shields.io/github/contributors/seu-usuario/PALM4BRASIL.svg)]()
 
 O **PALM4BRASIL** é uma iniciativa colaborativa voltada ao intercâmbio de experiências, resultados e boas práticas no uso do modelo atmosférico **PALM-LES** em aplicações voltadas ao Brasil.
 
