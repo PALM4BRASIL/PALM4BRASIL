@@ -8,9 +8,9 @@ O **PALM4BRASIL** é uma iniciativa colaborativa voltada ao intercâmbio de expe
 
 A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, realizada em Cachoeira Paulista (SP), entre os dias 19 e 20 de fevereiro de 2024, organizada pelo Prof. Dr. Gilberto Fisch (UNITAU). O evento contou com a participação do Prof. Dr. Siegfried Raasch, principal desenvolvedor do PALM-LES, e do Dr. Matthias Sühring, ambos da **Leibniz University**, além de docentes do **LFCTA/UNIPAMPA** (Felipe D. Costa e Rafael Maroneze), do **LAMAA (IFPA)** (Cleo Quaresma Dias), e estudantes de graduação e pós-graduação.
 
----
 
-## Objetivos
+
+### Objetivos
 
 - Promover a integração e ampliação da comunidade brasileira de usuários do modelo atmosférico **PALM-LES**;
 - Compartilhar estudos de caso e configurações específicas voltadas à **Amazônia, parques eólicos, ambientes urbanos e aplicações regionais**;
@@ -22,7 +22,7 @@ A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, reali
 [Acesse a pasta de scripts](https://github.com/PALM4BRASIL/OPORTUNIDADE)
 
 
-## Estrutura do Repositório
+### Estrutura do Repositório
 
 ```
 PALM4BRASIL/
@@ -37,7 +37,7 @@ PALM4BRASIL/
 └── README.md
 ```
 
-## Como Contribuir
+### Como Contribuir
 
 Contribuições são bem-vindas! Você pode colaborar de várias formas:
 
@@ -50,6 +50,6 @@ Para contribuir, faça um fork deste repositório, crie uma branch com suas alte
 
 
 
-## Contato
+### Contato
 
 Para mais informações ou para se envolver com o **PALM4BRASIL**, entre em contato com a equipe organizadora através do e-mail ou redes acadêmicas listadas nos eventos.
