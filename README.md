@@ -20,6 +20,10 @@ A ideia surgiu durante a **I Oficina de Usuários do PALM-LES no Brasil**, reali
 
 ### OPORTUNIDADES ➔ [Confira aqui](https://github.com/PALM4BRASIL/OPORTUNIDADES)
 
+### FERRAMENTAS ➔ [Confira aqui](https://github.com/PALM4BRASIL/FERRAMENTAS)
+
+### ESTUDOS DE CASO ➔ [Confira aqui](https://github.com/PALM4BRASIL/CASES)
+
 ### Como Contribuir
 
 Contribuições são bem-vindas! Você pode colaborar de várias formas:
